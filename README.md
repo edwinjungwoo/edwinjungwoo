@@ -3,6 +3,6 @@
 #### Data Scientist 지망
 
 
-Checkout my notion
+Checkout my notion!
 
 https://www.notion.so/edwinjungwoo/02a1aeaa0a9a4fa29afb73b50c32e5ab
