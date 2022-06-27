@@ -1,7 +1,7 @@
 ## EDWIN KIM
 #### 중앙대학교 경영경제대학 경영학과
 #### Data Scientist 지망
-#### Interested in Recommender System and Natural Language Processing
+#### Interested in Recommender System and Data Analytics
 
 
 Checkout my notion!
