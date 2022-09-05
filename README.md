@@ -2,7 +2,7 @@
 #### 중앙대학교 경영경제대학 경영학과 재학중
 #### Data Scientist 지망
 #### Currently studying in IMR Lab.
-#### Interested in Recommender System, Human Computer Interaction and Data Analytics
+#### Interested in Recommender System, and Data Analytics
 
 
 Checkout my notion!
