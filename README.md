@@ -6,8 +6,6 @@
 
 ---
 
-
-#### 🔎
 ###### CAU Business Admin. (2017.3 - now)
 
 ###### IMR Lab. (2022.7 - now)
