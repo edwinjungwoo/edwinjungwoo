@@ -5,6 +5,7 @@
 
 
 ---
+###### KAIST Management Engineering. (2023.3 - )
 
 ###### CAU Business Admin. (2017.3 - now)
 
