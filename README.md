@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=black&height=200&section=header&text=&fontSize=50)
 
 #### 🦝
-<img src="https://img.shields.io/badge/edwinjungwoo@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/> 
+<img src="https://img.shields.io/badge/edwinjungwoo@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>  
 
 
 ---
