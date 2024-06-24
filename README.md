@@ -7,16 +7,6 @@
 ---
 ###### KAIST Management Engineering (2023.3 - )
 
-###### CAU Business Admin. (2017.3 - now)
-
-###### IMR Lab. (2022.7 - now)
-
-###### CUAI 5th (2022.3 - 2022.9)
-
-###### Sportizen (2021.1 - 2021.5)
-
-###### [More info on Notion](https://edwinjungwoo.notion.site/02a1aeaa0a9a4fa29afb73b50c32e5ab)
-
 ---
 
 
