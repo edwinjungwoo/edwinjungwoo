@@ -5,7 +5,7 @@
 
 
 ---
-###### KAIST Management Engineering (2023.3 - )
+###### KAIST Management Engineering (2023.3 - 2025.02)
 
 ---
 
